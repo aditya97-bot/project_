@@ -193,8 +193,7 @@ project_/
 │   ├── year.png                       # Year distribution
 │
 ├── README.md                          # Project documentation
-├── CONTRIBUTING.md                    # Contribution guidelines
-└── LICENSE                            # MIT License
+
 ```
 
 ---
