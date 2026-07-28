@@ -240,7 +240,7 @@ git clone https://github.com/aditya97-bot/project_.git
 |---|---|
 | **Repository** | [github.com/aditya97-bot/project_](https://github.com/aditya97-bot/project_) |
 | **Language** | Python |
-| **License** | MIT |
+
 
 ---
 
